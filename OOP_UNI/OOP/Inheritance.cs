@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP_UNI
+namespace OOP_UNI.OOP
 {
     //Inheritence - Base klassin menimsediydiyi (impliment)  klasslarda (drived/child) xususiyyetlerini (property/metod) istifade edile bilmesine icaze verir.
 

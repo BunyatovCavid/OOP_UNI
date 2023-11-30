@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP_UNI
+namespace OOP_UNI.OOP
 {
     //Polymorphism (polimorfizm) - eyni adli methoddan çoxsaylı tetbiqetmeye imkanı verir
     //Polymorphism iki yere ayrilir : statik (compiler time'da teyin olunan) ve dinamik (runtime'da teyin olunan)

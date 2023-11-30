@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP_UNI
+namespace OOP_UNI.OOP
 {
     internal class Encapsulation
     {
-        
+
         //Encapsulation - diger klasslardan deyisenlere bir basa el catanligi aradan qaldirir ve hem menimsedilen,
         //hem de geri qaytarilan deyer uzerinde emeliyyatlar gore bilmeyimize imkanyaradir, bu sayede deyisenin deyerin qorumagimiza imkan verir.
         private int age;

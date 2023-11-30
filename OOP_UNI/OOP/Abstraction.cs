@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP_UNI
+namespace OOP_UNI.OOP
 {
     abstract class Abstraction
     {
